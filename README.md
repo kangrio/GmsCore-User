@@ -9,6 +9,9 @@ microG Services is a FLOSS (Free/Libre Open Source Software) framework to allow 
 
 ### Please refer to the [wiki](https://github.com/microg/GmsCore/wiki) for downloads and instructions
 
+## Need Patch App
+[MicroG Patcher](https://github.com/kangrio/MicroG-Patcher) 
+
 ## Translations
 
 If you'd like to help translate microG, take a look at [TRANSLATION](TRANSLATION.md).
