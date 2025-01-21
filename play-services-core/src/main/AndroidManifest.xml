@@ -191,6 +191,7 @@
         androidx.compose.runtime.saveable"
         />
     <application
+        android:name="org.microg.gms.App"
         android:allowBackup="true"
         android:forceQueryable="true"
         android:fullBackupOnly="true"
